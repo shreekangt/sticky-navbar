@@ -1,0 +1,13 @@
+.thumb_nail_img {
+	width: 70px;
+    height: 620px;
+}
+.thumb_nail_img ul {
+	list-style-type: none;
+    padding: 0;
+}
+.thumb_nail_img ul li img {
+	max-width: 62px;
+    width: 62px;
+    height: auto;
+}
